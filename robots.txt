@@ -5,4 +5,4 @@ User-agent: *
 Disallow:
 # This line added to test the git pull
 # second line added to test git pull
-# ts his linse is to test git[C[C[Cg[C[C[C[Cssssssghh connection between local o to remote repo via ssh
+# Humans will use robot extensiviely in another 20 years
