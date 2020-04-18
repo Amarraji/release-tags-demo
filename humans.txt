@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Amarnath Rajan
 
 # TECHNOLOGY COLOPHON
 
