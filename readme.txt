@@ -1,3 +1,1 @@
-Thiss [C[C is to learn git 
-Version is 1.0
-
+This is alpha release - v-2.1-alpha 
