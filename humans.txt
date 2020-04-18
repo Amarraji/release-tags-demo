@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Devops -- Architect -- architect_is_here
 
 # THANKS
 
